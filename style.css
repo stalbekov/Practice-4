@@ -1,0 +1,116 @@
+body {
+    background-image:url(https://s-sd.ru/images/cms/thumbs/a5b0aeaa3fa7d6e58d75710c18673bd7ec6d5f6d/animfon_1920_1031_jpg_0_100.jpg);
+    background-repeat:no-repeat;
+}
+
+.rel {
+    border: 1px solid none;
+    width: 1350px;
+    height: 500px;
+}
+
+.hours {
+    display: inline-block;
+    background-color: lightcyan;
+    border: 1px solid none;
+    border-radius: 15px;
+    width: 100px;
+    height: 90px;
+    margin-top: 200px;
+    margin-left: 500px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(53, 29, 29);
+}
+
+.minutes {
+    display: inline-block;
+    background-color: lightcyan;
+    border: 1px solid none;
+    border-radius: 15px;
+    width: 100px;
+    height: 90px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(53, 29, 29);
+}
+
+.seconds {
+    display: inline-block;
+    background-color: lightcyan;
+    border: 1px solid none;
+    border-radius: 15px;
+    width: 100px;
+    margin-bottom: 40px;
+    height: 90px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(53, 29, 29);
+}
+
+.h {
+    padding-left: 6px;
+    font-size: 75px;
+    padding-bottom: 5px;
+    font-family: URW Chancery L, cursive;
+}
+
+.m {
+    padding-left: 6px;
+    font-size: 75px;
+    padding-bottom: 5px;
+    font-family: URW Chancery L, cursive;
+}
+
+.s {
+    padding-left: 6px;
+    font-size: 75px;
+    padding-bottom: 5px;
+    font-family: URW Chancery L, cursive;
+}
+
+.Day {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid none;
+    border-radius: 15px;
+    margin: 1% auto;
+    margin-top: 50px;
+    margin-left: 560px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: URW Chancery L, cursive;
+}
+
+.Date {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid none;
+    border-radius: 15px;
+    margin: 1% auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: URW Chancery L, cursive;
+}
+
+.meridiem {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid none;
+    border-radius: 15px;
+    margin: 1% auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: URW Chancery L, cursive;
+}
